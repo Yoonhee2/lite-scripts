@@ -1,0 +1,2 @@
+# lite-scripts
+fastapi project
